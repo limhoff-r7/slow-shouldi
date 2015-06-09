@@ -27,6 +27,6 @@ defmodule SlowShouldi.Mixfile do
   #
   # Type `mix help deps` for more examples and options
   defp deps do
-    []
+    [{:shouldi, "~> 0.2.3", only: :test}]
   end
 end
