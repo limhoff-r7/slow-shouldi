@@ -1,3 +1,7 @@
 # Ignore IDEA files
 /.idea
 *.iml
+
+# Mix artifacts
+/_build
+/deps
